@@ -1,1 +1,2 @@
 # spam-mail-detection
+Comparing the effects of three different preprocessing methods on a spam mail detection task using logistic regression. The features are structured extracted from an unstructured set describing the percentage of words common in spam mail, the maximum length of string of capital letters, percentage of punctuation marks, etc. The data is courtesy of George Forman and the methodologies are courtesy of Hastie et al. 2009.
